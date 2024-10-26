@@ -15,9 +15,9 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/microsoft-sql_server-red?style=for-the-badge&labelColor=000000)
 
 ## About me
-An 18 y.o. boy who likes to play Minecraft.
+I'm A3efeoyunda1. I'm 18 years old. I study computer programming at Nişatnaşı University.
 
 **GitHub Stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A3efeoyunda1&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A3efeoyunda1&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A3efeoyunda1&show_icons=true&theme=github_dark&border_color=2C323A&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A3efeoyunda1&layout=compact&theme=github_dark&border_color=2C323A)
